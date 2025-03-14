@@ -4,7 +4,7 @@ I'm Jack - an enthusiast and professional in 🌐 AI tools, Decentralised Financ
 
 ## About Me 📖
 
-- 🎓 Co-Founder of <a href ="https://galapago.app">Project Galapago</a>.
+- 🎓 Ex-Co-Founder of <a href ="https://galapago.app">Project Galapago</a>.
 - 💼 Love building softwares, automating my workflows.
 - 🌱 Expanding my skills in **Python**, **Javascript**, **Solidity**, as well as indulging in my love for **AI** & **Philosophy**.
 - ✍🏻 Check out my <a href ="https://jackhui.com.au">personal website</a>.
